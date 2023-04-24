@@ -14,8 +14,3 @@ I'm currently working on Dogus Technology<br>I'm currently learning .Net Core Fe
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=umityavuz53&limit=5&theme=matrix&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=umityavuz53&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
